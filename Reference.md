@@ -1,6 +1,7 @@
 * [Interpretable Machine Learning Book](https://christophm.github.io/interpretable-ml-book/)
 * [Interpretable Machine Learning – A Brief History, State-of-the-Art and Challenges](https://arxiv.org/pdf/2010.09337)
 * [Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead](https://arxiv.org/pdf/1811.10154)
+* [Explainable AI: A Review of Machine Learning Interpretability Methods](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7824368/)
 * [Causal machine learning for predicting treatment outcomes](https://www.nature.com/articles/s41591-024-02902-1)
 
 * [STaRT-RWE: structured template for planning and reporting on the implementation of real world evidence studies](https://www.bmj.com/content/372/bmj.m4856)
