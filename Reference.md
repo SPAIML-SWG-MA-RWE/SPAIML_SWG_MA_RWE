@@ -5,6 +5,7 @@
 * [**Explainable AI/ML**] [Best Learning Resource for Explainable AI (XAI) in 2023 | by Renee LIN | Medium](https://reneelin2019.medium.com/best-learning-resource-for-explainable-ai-xai-in-2023-4edcf2e2ae17)
 * [**Causal AI/ML**][Causal machine learning for predicting treatment outcomes](https://www.nature.com/articles/s41591-024-02902-1)
 * [**Causal AI/ML**][Causal machine learning for healthcare and precision medicine](https://royalsocietypublishing.org/doi/10.1098/rsos.220638)
+* [**Digital Twins**][Digital twins for health: a scoping review](https://www.nature.com/articles/s41746-024-01073-0)
 * [**Others**][STaRT-RWE: structured template for planning and reporting on the implementation of real world evidence studies](https://www.bmj.com/content/372/bmj.m4856)
 
 * [**Others**][First Results From the RCT DUPLICATE Initiative](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.120.051718)
