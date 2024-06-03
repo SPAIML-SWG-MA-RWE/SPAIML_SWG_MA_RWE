@@ -6,6 +6,7 @@
 * [**Causal AI/ML**][Causal machine learning for predicting treatment outcomes](https://www.nature.com/articles/s41591-024-02902-1)
 * [**Causal AI/ML**][Causal machine learning for healthcare and precision medicine](https://royalsocietypublishing.org/doi/10.1098/rsos.220638)
 * [**Digital Twins**][Digital twins for health: a scoping review](https://www.nature.com/articles/s41746-024-01073-0)
+* [**Digital Twins**][Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects](https://dspace.mit.edu/bitstream/handle/1721.1/144417/jel.20191450.pdf?sequence=2&isAllowed=y)
 * [**Others**][STaRT-RWE: structured template for planning and reporting on the implementation of real world evidence studies](https://www.bmj.com/content/372/bmj.m4856)
 
 * [**Others**][First Results From the RCT DUPLICATE Initiative](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.120.051718)
