@@ -10,3 +10,5 @@
 * [**Others**][STaRT-RWE: structured template for planning and reporting on the implementation of real world evidence studies](https://www.bmj.com/content/372/bmj.m4856)
 
 * [**Others**][First Results From the RCT DUPLICATE Initiative](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.120.051718)
+* [**GDMT for HF**][Initiation and Up-titration of Guideline-directed Medical Therapy for Patients with Heart Failure: Better, Faster, Stronger!](https://www.cfrjournal.com/articles/initiation-and-titration-guideline-directed-medical-therapy-patients-heart-failure-better#:~:text=We%20now%20know%20that%20the,prognosis%20of%20patients%20with%20HF.)
+* [**GDMT for HF**][Improving Guideline-Directed Medical Therapy for Patients With Heart Failure With Reduced Ejection Fraction: A Review of Implementation Strategies](https://www.sciencedirect.com/science/article/pii/S1071916423009247#sec0001)
