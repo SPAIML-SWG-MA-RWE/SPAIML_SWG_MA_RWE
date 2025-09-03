@@ -3,6 +3,7 @@
 * [**Explainable AI/ML**] [Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead](https://arxiv.org/pdf/1811.10154)
 * [**Explainable AI/ML**] [Explainable AI: A Review of Machine Learning Interpretability Methods](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7824368/)
 * [**Explainable AI/ML**] [Best Learning Resource for Explainable AI (XAI) in 2023 | by Renee LIN | Medium](https://reneelin2019.medium.com/best-learning-resource-for-explainable-ai-xai-in-2023-4edcf2e2ae17)
+* [**Explainable AI/ML**] [Explainable AI in Healthcare: to Explain, to Predict, or to Describe?](https://arxiv.org/pdf/2508.05753)
 * [**Causal AI/ML**][Causal machine learning for predicting treatment outcomes](https://www.nature.com/articles/s41591-024-02902-1)
 * [**Causal AI/ML**][Causal machine learning for healthcare and precision medicine](https://royalsocietypublishing.org/doi/10.1098/rsos.220638)
 * [**Causal AI/ML**][Causal Machine Learning: A Survey and Open Problems](https://arxiv.org/abs/2206.15475)
